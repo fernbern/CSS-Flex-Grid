@@ -1,0 +1,16 @@
+h1 {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 1;
+    order: 5;
+    order: -1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 1;
+    flex: 1 1 calc(50% - 60px);
+    flex-direction: wrap;
+    flex-direction: nowrap;
+    flex-direction: reverse;
+    flex-direction: wrap-reverse;
+    justify-content: space-between;
+  }
