@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    background: deepskyblue;
+    background-color: deepskyblue;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 700;
+    font-size: 20px;
 }
