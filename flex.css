@@ -7,3 +7,6 @@
 }
 
 container { margin: 0}
+@media (max-width: 400) {
+    border: 0;
+}
