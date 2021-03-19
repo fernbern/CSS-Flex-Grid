@@ -10,3 +10,12 @@ container { margin: 0}
 @media (max-width: 400) {
     border: 0;
 }
+.container-test {
+    display: felx;
+    flex-direction: column;
+    flex-direction: row;
+    flex-diretion: column-reverse;
+    flex-direction: row-reverse;
+    flex-wrap: warp;
+    flex-wrap: no-wrap;
+}
