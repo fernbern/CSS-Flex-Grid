@@ -18,4 +18,13 @@ container { margin: 0}
     flex-direction: row-reverse;
     flex-wrap: warp;
     flex-wrap: no-wrap;
+    justify-content: flex-start;
+    justify-content: center;
+    justify-content: flex-end;
+    justify-content: flex-start;
+    justify-content: center;
+    justify-content: flex-end;
+    justify-content: flex-start;
+    justify-content: center;
+    juistify-content: flex-end;
 }
