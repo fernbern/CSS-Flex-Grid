@@ -4,6 +4,7 @@
     --clr-primary-2: hsl(205, 77%, 27%);
     --crl-primary-3: hsl(205, 72%, 37%);
     --crl-primary-4: hsl(205, 72%, 40%);
+    --crl-primary-5L hsl(1,2,3);
     
     --crl-primary-5: hsl(205, 63%, 40%);
 
@@ -94,6 +95,7 @@ p {
 }
 @media screen and (min-width: 800px) {
     h1 {
+        font-size: 4rem;
         font-size: 4rem;
     }
     h2 {
