@@ -11,3 +11,6 @@
 .testing {
     grid-template-columns: 1fr 1fr 1fr;
 }
+.container-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+}
