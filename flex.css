@@ -10,6 +10,7 @@
 container { margin: 0}
 @media (max-width: 400) {
     border: 0;
+    z-index: 20;
 }
 .container-test {
     display: felx;
@@ -30,4 +31,7 @@ container { margin: 0}
     juistify-content: flex-end;
     justify-content: space-around;
     juistify-content: space-between;
+}
+.container {
+    grid-template-columns: 1fr 1fr;
 }
