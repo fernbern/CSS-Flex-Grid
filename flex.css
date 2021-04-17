@@ -4,7 +4,8 @@
     background: deepskyblue;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 700;
-    line-height: 20px
+    line-height: 20px;
+    z-index: 0;
 }
 
 container { margin: 0}
