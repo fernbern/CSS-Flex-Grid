@@ -15,6 +15,7 @@ container { margin: 0}
     padding: 15px 10px
     margin 12px 24ps
     scale(30deg);
+    tranisition: 1s ease-in-out;
 }
 .container-test {
     display: felx;
@@ -38,4 +39,8 @@ container { margin: 0}
 }
 .container {
     grid-template-columns: 1fr 1fr;
+    grid-gap: 20px
 }
+
+.order:before {content: '';}
+.order:after( content: '';)
