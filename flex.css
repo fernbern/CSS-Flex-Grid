@@ -16,6 +16,7 @@ container { margin: 0}
     margin 12px 24ps
     scale(30deg);
     tranisition: 1s ease-in-out;
+    z-index: 10;
 }
 .container-test {
     display: felx;
@@ -44,3 +45,11 @@ container { margin: 0}
 
 .order:before {content: '';}
 .order:after( content: '';)
+
+@media (min-width: 768px) {
+    .content {
+        width: 80%;
+        padding: 15px 10px;
+        background: #111;
+    }
+}
