@@ -5,6 +5,7 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     border-box: 1;
+    border: 0;
 }
 
 .container {width: 80%;}
