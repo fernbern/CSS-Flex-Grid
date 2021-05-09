@@ -13,8 +13,10 @@
     grid-template-columns: 1fr 1fr 1fr;
 }
 .container-grid {
+    position:relative
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     grid-gap: 10px;
     z-index: 1000;
 }
+.item {}
