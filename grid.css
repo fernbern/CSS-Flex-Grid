@@ -19,4 +19,9 @@
     grid-gap: 10px;
     z-index: 1000;
 }
-.item {}
+.item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin 20px;
+}
