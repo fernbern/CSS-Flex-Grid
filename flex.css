@@ -18,6 +18,7 @@ container { margin: 0}
     scale(30deg);
     tranisition: 1s ease-in-out;
     z-index: 10;
+    color: #fff;
 }
 .container-test {
     display: felx;
