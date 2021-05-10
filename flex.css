@@ -6,6 +6,7 @@
     font-weight: 700;
     line-height: 20px;
     z-index: 0;
+    border: 0;
 }
 
 container { margin: 0}
