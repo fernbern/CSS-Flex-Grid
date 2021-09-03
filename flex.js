@@ -5,3 +5,4 @@ var z = 21;
 let arr = 'work hard';
 map();
 (function(){return})
+console.log('hello');
