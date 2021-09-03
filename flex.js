@@ -6,3 +6,4 @@ let arr = 'work hard';
 map();
 (function(){return})
 console.log('hello');
+includes() filter();
